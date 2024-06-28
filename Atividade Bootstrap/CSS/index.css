@@ -1,0 +1,47 @@
+
+body {
+    overflow-x:hidden;
+}
+
+.scroll-horizontal{
+    overflow-x:scroll;
+    scrollbar-color: black;
+   
+}
+.card1{
+    width: 18rem; margin-left: 30%; margin-top: 2%;
+
+}
+
+.card2{
+
+     width: 18rem; margin-left: 90%; margin-top: 4%;
+
+}
+.card3{
+    width: 18rem; margin-left: 100%; margin-top: 4%;
+
+}
+
+.card4{
+
+     width: 18rem; margin-left: 100%; margin-top: 4%;
+
+}
+.btn-danger{
+    text-decoration: none;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
+footer{
+    background-color: rgba(255, 255, 255, 0);
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 20px;
+    margin-top: 4%;
+}
+
+.container{
+    margin: 0;
+    padding: 0;
+}
